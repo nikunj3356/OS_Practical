@@ -1,0 +1,11 @@
+Basic Linux Commands
+File and Directory Operations:
+ls: List directory contents.
+pwd: Print working directory.
+cd: Change directory.
+mkdir: Make directories.
+rmdir: Remove directories.
+touch: Create empty files.
+cp: Copy files.
+mv: Rename files.
+rm: Remove files.
